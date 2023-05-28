@@ -9,4 +9,5 @@ allow {
 
 allow {
     input.name == "thilak"
+    input.role == "admin"
 }
